@@ -8,5 +8,19 @@
 [2020.04.15]   
 >[네이버 부스트코스](https://www.edwith.org/boostcourse-ui/joinLectures/20901)의 웹 프로그래밍 강의를 수강하며 진행   
 >   >**html문서 구조**   
+>   > ```
+>   ><!DOCTYPE html>
+>   ><html lang="ko">
+>   >   <head>
+>   >      <meta charset="UTF-8">
+>   >      <title>HTML</title>
+>   >   </head>
+>   >   <body>
+>   >      <h1>Hello, HTML</h1>
+>   >   </body>
+>   ></html>
+>   >```
 >   > - ```<!DOCTYPE html>```   
->   >: 최상단에 작성하여 문서의 타입을 정의함, 문서의 버전과 타입을 브라우저에 알려주는 선언문   
+>   > : 최상단에 작성하여 문서의 타입을 정의함, 문서의 버전과 타입을 브라우저에 알려주는 선언문   
+>   > - ```<html>```   
+>   > : 문서 타입 선언 후 작성하는 태그, ```<head>와 <body>의 자식 태그가 있다.```    
