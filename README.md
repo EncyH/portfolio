@@ -7,6 +7,8 @@
 웹 프론트 디자인과 백엔드 개발 후 디자인 사용 여부 결정   
 [2020.04.15]   
 [네이버 부스트코스](https://www.edwith.org/boostcourse-ui/joinLectures/20901)의 웹 프로그래밍 강의를 수강하며 진행  
+[2020.09.23]   
+[JAVA]JAVA Spring을 활용해 개발   
 *** 
 **html문서 구조**   
 > ```
